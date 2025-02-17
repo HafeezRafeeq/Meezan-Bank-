@@ -1,0 +1,41 @@
+.bg-grey{
+    background-color: #E6E6E6;
+}
+
+.bg-purple{
+    background-color:#701E7D;
+}
+
+.bg-yellow{
+    background-color: #FFD400;
+}
+
+.bg-grey{
+    background-color: #E6E6E6;
+}
+
+.color-grey{
+    color: #E6E6E6;
+}
+
+.color-purple{
+    color: #701E7D;
+}
+
+.color-Yellow{
+    color: #FFD400;
+}
+
+
+/* font */
+
+@font-face {
+    font-family: roboto ;
+    src: url(./font/Poppins\,Roboto.zip);
+}
+
+.f-pera{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+
+}
