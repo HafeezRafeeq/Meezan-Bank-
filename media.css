@@ -1,0 +1,32 @@
+.sm:hidden { @media (min-width: 640px) { display: none; } }
+.md:flex { @media (min-width: 768px) { display: flex; } }  
+.lg:grid { @media (min-width: 1024px) { display: grid; } }  
+
+/* navbar */
+
+@media(max-width: 1245px) {
+    #search{ display: none;}    
+}
+
+@media(max-width: 770px) {
+    .hidden { display: none;}    
+}
+
+@media(max-width: 375px) {
+    .top-div { display: none;}    
+}
+
+@media(max-width: 1020px) {
+     .login{ display: none;}
+     .login-1{ display: block;}    
+}
+
+
+@media(max-width: 870px) {
+    .login-3{ display: none;}    
+}
+
+@media(max-width: 770px) {
+    .menu{ display: block;}    
+}
+

@@ -1,5 +1,51 @@
-.text-d{
-text-decoration: none;
-font-family: roboto; 
-font-size: medium;   
+.text-d {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
 }
+
+.div-1{
+    width: 100%;
+}
+
+.nav-border{
+    border-bottom: 1px solid gray ;
+}
+
+.border-left{
+    border-left: 1px solid gray;
+    padding: 25px;
+}
+
+.border-right{
+    border-right: 1px solid gray;
+    padding: 25px;
+}
+
+.nav-a:hover{
+    background-color: #ffd400;
+}
+
+
+.nav-l:hover{
+    color: #701e7d;
+    background-color: #ffd400;
+}
+
+.m-left{
+    margin-left: 165px;
+}
+
+.login-1{
+    display: none;
+}
+
+.mnue-icone{
+    display: none;
+    font-size: xx-large;
+}
+
+/* navbar */
+
+/* main */
+
