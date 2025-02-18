@@ -18,6 +18,14 @@
     color: #E6E6E6;
 }
 
+.color-withe{
+    color: white;
+}
+
+.gap-6{
+    gap: 75px;
+}
+
 .color-purple{
     color: #701E7D;
 }
@@ -43,11 +51,26 @@
     font-size: large;
 }
 
+.ft-6{
+    font-family: roboto;
+    font-size: xx-large;
+}
+
 .f-pera{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
+    font-size: small;   
+}
+
+.h-pera{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 600;   
+}
+
+.w-pera{
     width: 280px;
 }
+
 .bold-font{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;

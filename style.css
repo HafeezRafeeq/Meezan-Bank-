@@ -49,3 +49,60 @@
 
 /* main */
 
+.clipped {
+    width: 250px;
+    height: 200px;
+    background: red;
+    border-radius: 8px;
+ 
+}
+
+.branch-box1:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px (hsl(0, 0%, 0%));    
+}
+
+.padding-div{
+    padding: 30px 141px 30px 141px;
+}
+
+
+.purple-div{
+       background-color: #701e7d;  
+       padding: 20px;  
+}
+
+.purple-font-width{
+    width: auto ;
+    height: auto;
+}
+
+.purple-icone{
+    color : white;
+    font-size: 60pX;
+    background-color: #854090;
+    border: 1px solid #701e7d;
+    border-radius: 50%;
+}
+
+.padding-icone-1{
+    padding: 35px 32px 35px 32px;
+}
+
+.padding-icone-2{
+    padding: 35px 38px 35px 38px;
+}
+
+.padding-icone-3{
+    padding: 35px 46px 35px 46px;
+}
+
+.padding-icone-4{
+    padding: 35px 33px 35px 33px;
+}
+
+.padding-icone-5{
+    padding: 35px 37px 35px 37px;
+}
+
+
