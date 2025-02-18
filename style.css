@@ -73,8 +73,7 @@
 }
 
 .purple-font-width{
-    width: auto ;
-    height: auto;
+    width: 180px  ;
 }
 
 .purple-icone{
@@ -105,4 +104,20 @@
     padding: 35px 37px 35px 37px;
 }
 
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  14px;
+    font-weight: 600;
+}
+
+.footer-font{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    
+}
+
+ul , li {
+    list-style-type: none;
+}
 
