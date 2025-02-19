@@ -49,12 +49,11 @@
 
 /* main */
 
-.clipped {
+.clipped-1 {
     width: 250px;
     height: 200px;
     background: red;
-    border-radius: 8px;
- 
+    border-radius: 8px; 
 }
 
 .branch-box1:hover {
@@ -62,18 +61,22 @@
     box-shadow: 0 10px 20px (hsl(0, 0%, 0%));    
 }
 
-.padding-div{
+/* .padding-div{
     padding: 30px 141px 30px 141px;
+} */
+
+.gap-7{
+    gap: 282px;
 }
 
-
 .purple-div{
-       background-color: #701e7d;  
-       padding: 20px;  
+       background-color: #701e7d;
+       width: auto; 
+     
 }
 
 .purple-font-width{
-    width: 180px  ;
+    width: 180px;
 }
 
 .purple-icone{
@@ -119,5 +122,12 @@ h4{
 
 ul , li {
     list-style-type: none;
+}
+
+.clip-icone{
+    width: 40px;
+    height: 40px;
+    background: red;
+    border-radius: 8px;
 }
 
