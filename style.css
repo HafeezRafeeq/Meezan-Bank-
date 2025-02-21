@@ -43,6 +43,7 @@
 .mnue-icone{
     display: none;
     font-size: xx-large;
+    color: #701e7d;
 }
 
 /* navbar */
@@ -124,10 +125,27 @@ ul , li {
     list-style-type: none;
 }
 
+li{
+    margin-bottom: 8px;
+}
+
 .clip-icone{
     width: 40px;
     height: 40px;
     background: red;
     border-radius: 8px;
+}
+
+.pad{
+    padding: 0px 140px 0px 0px;
+}
+
+
+.pad-1{
+    padding: 0px 80px 0px 80px;
+}
+
+.padding-2{
+    padding: 10px 120px 10px 120px;
 }
 

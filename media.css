@@ -26,7 +26,17 @@
     .login-3{ display: none;}    
 }
 
-@media(max-width: 770px) {
-    .menu{ display: block;}    
+@media(max-width: 770px) {    
+    .menu-icone{ display: block;}    
+}
+
+@media(max-width: 1220px) {
+    .purple-line { display: none;} 
+    .purple-line-2 { display: block;}
+}
+
+@media(max-width: 1220px) {
+    .footer-1 { display: none;} 
+    .footer-2 { display: block;}
 }
 
